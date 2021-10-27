@@ -2,6 +2,12 @@
 
 ## Reflection Paper
 
+[ Hult SF MsBA2 - Team 7 ]
+- Ching-Chih Chang
+- Eva Chun Xia
+- Danqi Xin
+- Jisung Jung
+
 Our team worked very well together as everyone was result-driven, hardworking and curious learner. We all took our initiatives to contribute to the team and were all very collaborative. We were active listeners as we listened carefully to each other’s thought processes and gave feedback accordingly. We also respected one another and enjoyed our conversations since we came from different professional and cultural backgrounds.
 
 The first task of our teamwork procedure was to find the data for the different accounts for Profit and Loss and Balance Sheet. We first made an excel sheet to simulate the final output table for P&L and B/S. And then we looked at the ER diagram to see the relationships between each field and created a procedure in order to find the numbers we wanted for different accounts in different years and inputted the number we retrieved via SQL into excel. After reviewing everything was correct, we wrote the codes to formulate the tables and integrated our codes together for the final result. 
