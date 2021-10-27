@@ -1,0 +1,6 @@
+"journal_type_id","company_id","journal_type_code","journal_type","journal_type_order","serial_number","checking_account_type"
+0,0,"","",0,0,0
+13,1,"CA","CASH",1,11,0
+14,1,"BK","BANK",2,1,0
+15,1,"GR","GENERAL",3,10,0
+16,1,"SA","SALES",4,6,0

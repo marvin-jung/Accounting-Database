@@ -1,0 +1,7 @@
+"report_configuration_id","line_item","company_id","account_code_from","account_code_until","debit","including_concept","excluding_concept"
+17,1,1,"5000","5001-99",0,"",""
+18,1,1,"5002","5002-99",0,"",""
+19,1,1,"2002","2002-99",0,"",""
+20,1,1,"2001-04","2001-04",0,"",""
+21,1,1,"2001-04","2001-04",1,"","%PAYMENT%"
+22,1,1,"2001-04","2001-04",1,"%PAYMENT%",""

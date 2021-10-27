@@ -1,0 +1,7 @@
+"report_label_id","company_id","report_label_code","report_label","report_label_order"
+18,1,"REV","REVENUE",1
+19,1,"RETREV","RETURNS AND DISCOUNTS",2
+20,1,"VAT_CHAR","RETAINED VAT",3
+21,1,"IVA_LFY","VAT TO BE CREDIT FROM PREVIOUS FY",4
+22,1,"IVA_FY","VAT TO BE CREDIT FROM THIS FY",5
+23,1,"PAID","INTERIM PAYMENTS",6
